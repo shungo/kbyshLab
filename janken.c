@@ -8,7 +8,7 @@ int getMyHand();
 int getVs(int,int);
 void printResult();
 
-int shungo;
+int kishimotoshungo;
 
 int main(){
  
